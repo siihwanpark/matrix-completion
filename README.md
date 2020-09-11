@@ -13,3 +13,6 @@ Python Implementation of the paper 'A Singular Value Thresholding Algorithm for 
 * Approx. 50s for 1000 iterations
 
 ![results](figures/fig1.jpg)
+
+### References
+[1] Cai, Jian-Feng, Emmanuel J. Candès, and Zuowei Shen. "A singular value thresholding algorithm for matrix completion." SIAM Journal on optimization 20.4 (2010): 1956-1982.
