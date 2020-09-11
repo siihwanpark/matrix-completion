@@ -12,4 +12,4 @@ Python Implementation of the paper 'A Singular Value Thresholding Algorithm for 
 ### Results
 * Approx. 50s for 1000 iterations
 
-![results](./figures/fig1.jpeg)
+![results](figures/fig1.jpg)
